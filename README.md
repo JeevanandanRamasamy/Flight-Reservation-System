@@ -5,11 +5,11 @@ This project is a flight reservation system with different user roles including 
 ---
 
 ## Table of Contents
-1. [Register/Log-in Page](#registerlog-in-page)
-2. [Customer Page](#customer-page)
-3. [Admin Page](#admin-page)
-4. [Customer Representative Page](#customer-representative-page)
-5. [Additional Info](#additional-info)
+1. [Register/Log-in Page](#1---registerlog-in-page)
+2. [Customer Page](#2---customer-page)
+3. [Admin Page](#3---admin-page)
+4. [Customer Representative Page](#4---customer-representative-page)
+5. [Additional Info](#5---additional-information)
 
 ---
 
@@ -23,7 +23,7 @@ The login page (`checkAccountDetails.jsp`) allows users to either log in or regi
 
 ---
 
-## 2 - Customer Page (For customers)
+## 2 - Customer Page
 Once logged in as a customer, you are redirected to a page where you can search for flights, view reservations, and manage your bookings.
 
 ### 2.1 Search for Flights
