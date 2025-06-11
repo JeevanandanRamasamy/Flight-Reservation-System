@@ -93,7 +93,7 @@ Login as a customer representative (username: csrep, password: 1234) to assist c
 - If you encounter login errors, replace the "password" in the following JSP files with your MySQL password:
     - `account.jsp`, `addData.jsp`, `addEditDeleteData.jsp`, `airportFlights.jsp`, `cancelTicket.jsp`, `checkAccountDetails.jsp`, `deleteData.jsp`, `editData.jsp`, `editTicket.jsp`, `postQuestion.jsp`, `questions.jsp`, `queryFlights.jsp`, `replyQuestions.jsp`, `reservation.jsp`, `reserveTickets.jsp`, `searchedQuestions.jsp`, `waitingList.jsp`.
 
---- 
+---
 
 This flight reservation system simplifies the process of booking and managing flights while also allowing administrative control and customer support functionalities.
  
